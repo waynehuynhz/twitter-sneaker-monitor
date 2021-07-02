@@ -25,10 +25,10 @@ const sendDiscordWebhook = async ({
   if (description) embed.setDescription(description);
 
   embed
-    .setColor('#ffaaaa')
+    .setColor('#ff406d')
     .setFooter(
-      'Twitter Bricks by @rtunazzz',
-      'https://media.discordapp.net/attachments/683591452214820909/748503709452861450/rtuna_logo.png',
+      'Vision. Monitor | @EvilVisionCorp',
+      'https://pbs.twimg.com/profile_images/1401790457189781504/2rG6vjcg_400x400.jpg',
     );
 
   if (productName) embed.setTitle(productName);
