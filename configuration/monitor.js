@@ -1,6 +1,6 @@
 module.exports = {
   // discord webhook, don't delete the single quotes nor the comma!
-  webhook: '',
+  webhook: 'https://discord.com/api/webhooks/860420828445278219/mduHn2YDyyuwBiIr2CDv3Z4ttj1vJ1AMn_82AK-5cdCaiQoXr7KuQyZlhuZNopnU-xyT',
   accounts: [
     // if you're adding more accounts, make sure they all have
     // single quotes around them, followed by a comma!
