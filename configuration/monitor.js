@@ -8,6 +8,9 @@ module.exports = {
     '799291157222146048', // thesolerestocks
     '735906857642905606', // solelinksWW
     '574186881', // snkr_twitr
+    '1304972592164478976', // Target Restock
+    '18854356', // matt Swider
+    '1254877870595457024', // PS5 Updates
   ],
   // if filter is set to true, monitor will filter out certain tweets.
   filter: false,
