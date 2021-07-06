@@ -10,6 +10,7 @@ module.exports = {
     '574186881', // snkr_twitr
     '18854356', // matt Swider
     '1254877870595457024', // PS5 Updates
+    '1334977387386302471', // LordOfRestock
   ],
   // if filter is set to true, monitor will filter out certain tweets.
   filter: false,
