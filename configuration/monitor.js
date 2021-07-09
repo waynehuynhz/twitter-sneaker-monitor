@@ -11,6 +11,7 @@ module.exports = {
     '18854356', // matt Swider
     '1254877870595457024', // PS5 Updates
     '1334977387386302471', // LordOfRestock
+    '2698270332', // SOLELINKS
   ],
   // if filter is set to true, monitor will filter out certain tweets.
   filter: false,
